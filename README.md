@@ -13,4 +13,3 @@ Aplicativo de calculadora simples no estilo ios
 
 
 ### [Baixe e instale o flutter](https://flutter.dev/docs/get-started/install)
-
