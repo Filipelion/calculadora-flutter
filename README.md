@@ -1,17 +1,16 @@
-# mpoo_app
+# Calculadora
 
-A new Flutter project.
+Aplicativo de calculadora simples no estilo ios
 
-## Getting Started
+## Como baixar
 
-This project is a starting point for a Flutter application.
+* Faça um fork do projeto (precisa ter uma conta no github)
+* Abra um editor de texto
+* Tenha o git
+* git clone _link-do-seu-repositorio-git_  em diretorio
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# calculadora-flutter
+### [Baixe e instale o flutter](https://flutter.dev/docs/get-started/install)
+
